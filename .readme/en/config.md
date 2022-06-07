@@ -75,15 +75,15 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number (time in seconds)  
 > - Default: 10  
 ------  
-> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Blocks dangerous people automatically (reduces the speed of íris).  
+> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Blocks dangerous people automatically (reduces the speed of Hehe Boy!).  
 > - Values: true, false  
 > - Default: false  
 ------  
-> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → Updates Íris automatically when you edit the programme.  
+> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → Updates Hehe Boy! automatically when you edit the programme.  
 > - Values: true, false  
 > - Default: false  
 ------  
-> - [Backup_Time](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L6) → The time duration between each backup (important files of íris).  
+> - [Backup_Time](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L6) → The time duration between each backup (important files of Hehe Boy!).  
 > - Values: number (time in minutes)  
 > - Default: 60  
 ------  
@@ -131,7 +131,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: true, false  
 > - Default: true  
 ------  
-> - [Enable_Backups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L21) → Enables backup important files of íris.  
+> - [Enable_Backups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L21) → Enables backup important files of Hehe Boy!.  
 > - Values: true, false  
 > - Default: true  
 ------  
@@ -143,7 +143,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number  
 > - Default: 10  
 ------  
-> - [Language](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L24) → All texts, dialogues and translation systems of Íris.  
+> - [Language](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L24) → All texts, dialogues and translation systems of Hehe Boy!.  
 > - Values: "en", "pt", "es"  
 > - Default: "pt"  
 ------  
@@ -163,7 +163,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number  
 > - Default: 16  
 ------  
-> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → The maximum amount of groups íris can join. if it goes beyond the limit, she'll leave.  
+> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → The maximum amount of groups Hehe Boy! can join. if it goes beyond the limit, she'll leave.  
 > - Values: number  
 > - Default: 10  
 ------  
@@ -199,7 +199,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number  
 > - Default: 70  
 ------  
-> - [Min_Membros](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L38) → The minimum amount of members íris wants to work in a group.  
+> - [Min_Membros](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L38) → The minimum amount of members Hehe Boy! wants to work in a group.  
 > - Values: number  
 > - Default: 1  
 ------  
@@ -240,7 +240,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: true, false  
 > - Default: false  
 ------  
-> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Íris prefixes, messages starting with that will be detected as commands.  
+> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Hehe Boy! prefixes, messages starting with that will be detected as commands.  
 > - Values: array of everything  
 > - Default: ["/", "$", "#", ".", "\\", "@", "=", "?", "+", "!", "&", ":", ";", "^", ">", "<"]  
 ------  
@@ -256,7 +256,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number  
 > - Default: 20  
 ------  
-> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Max wait time of puppeteer, when it reaches 0, Íris will force the close commands like CPF.  
+> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Max wait time of puppeteer, when it reaches 0, Hehe Boy! will force the close commands like CPF.  
 > - Values: number (time in milliseconds)  
 > - Default: 220000  
 ------  
@@ -264,7 +264,7 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: number  
 > - Default: 10  
 ------  
-> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → If you enable this, Íris will notify groups when she's online.  
+> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → If you enable this, Hehe Boy! will notify groups when she's online.  
 > - Values: true, false  
 > - Default: false  
 ------  
@@ -272,9 +272,9 @@ To configure these parameters, find the ```Iris Folder``` you downloaded with ``
 > - Values: string  
 > - Default: "DONTEDITUSR - DONTEDITGPN"  
 ------  
-> - [Sticker_Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L78) → Default name of sticker packs created by Íris.  
+> - [Sticker_Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L78) → Default name of sticker packs created by Hehe Boy!.  
 > - Values: string  
-> - Default: "🔰 MVTZ [https://github.com/anonybrmous] MaaTVZ ⚜️"  
+> - Default: "🔰 Hehe Boy! [https://evolutioncine.tk] MaaTVZ ⚜️"  
 ------  
 > - [User_Agent](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L79) → Default User-Agent for using axios and others modules. It's useful to bypass some U.A blocking.  
 > - Values: [string](https://www.whatismybrowser.com/guides/the-latest-user-agent/chrome)  

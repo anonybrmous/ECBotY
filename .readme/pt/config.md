@@ -4,7 +4,7 @@ A configuração é essencial, pois afeta comandos, se você não os configurar,
   
 ### Como configurar?  
   
-Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o `Git Clone` - **Não é online na Github!** - e vá para a pasta `Lib/Config/Settings`, abra o arquivo necessário com qualquer editor de texto - recomendo o uso de [NotePad++](https://notepad-plus-plus.org/downloads/) se estiver no Windows - e agora basta editar.  
+Para configurar estes parâmetros, ache a pasta do Hehe Boy! que você baixou com o `Git Clone` - **Não é online na Github!** - e vá para a pasta `Lib/Config/Settings`, abra o arquivo necessário com qualquer editor de texto - recomendo o uso de [NotePad++](https://notepad-plus-plus.org/downloads/) se estiver no Windows - e agora basta editar.  
   
 <details>  
 	<summary><h3>CONFIGURAÇÕES DE API - APIS.JSON - [CLIQUE AQUI]</h3></summary>  
@@ -75,11 +75,11 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número (tempo em segundos)  
 > - Padrão: 10  
 ------  
-> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Bloqueia pessoas automaticamente, isso reduz um pouco a velocidade da Íris.  
+> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Bloqueia pessoas automaticamente, isso reduz um pouco a velocidade do Hehe Boy!.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
-> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → Atualiza a Íris em tempo real sempre que você editar um código.  
+> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → Atualiza o Hehe Boy! em tempo real sempre que você editar um código.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
@@ -99,7 +99,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: true, false  
 > - Padrão: false  
 ------  
-> - [Bot_Commands](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L10) → Permite que a Íris rode comandos em si mesma, você também pode fazer isso acessando o WhatsApp dela.  
+> - [Bot_Commands](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L10) → Permite que o Hehe Boy! rode comandos em si mesma, você também pode fazer isso acessando o WhatsApp dela.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
@@ -163,7 +163,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número  
 > - Padrão: 16  
 ------  
-> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → A quantidade máxima de grupos na Íris, ao passar deste valor, ela saíra até que chegue no valor especificado.  
+> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → A quantidade máxima de grupos no Hehe Boy!, ao passar deste valor, ela saíra até que chegue no valor especificado.  
 > - Valores: número  
 > - Padrão: 10  
 ------  
@@ -199,7 +199,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número  
 > - Padrão: 70  
 ------  
-> - [Min_Membros](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L38) → Quantidade mínima de membros que um grupo deve obter para que a Íris permaneça nele.  
+> - [Min_Membros](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L38) → Quantidade mínima de membros que um grupo deve obter para que o Hehe Boy! permaneça nele.  
 > - Valores: número  
 > - Padrão: 1  
 ------  
@@ -219,7 +219,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: [string](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)  
 > - Padrão: "America/Sao_Paulo"  
 ------  
-> - [Multitasking](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L43) → Ao ativar isso, a Íris pode executar múltiplos comandos enviados em apenas uma mensagem.  
+> - [Multitasking](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L43) → Ao ativar isso, o Hehe Boy! pode executar múltiplos comandos enviados em apenas uma mensagem.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
@@ -227,7 +227,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número  
 > - Padrão: 1000  
 ------  
-> - [Owner](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L45-L49) → A lista de donos da Íris, pessoas inseridas aqui possuem total controle dos sistemas da Íris.  
+> - [Owner](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L45-L49) → A lista de donos do Hehe Boy!, pessoas inseridas aqui possuem total controle dos sistemas do Hehe Boy!.  
 > - Valores: array de números com string  
 > - Padrão: ["Insira seu número@c.us", "Número 2 - Opcional@c.us", "Não remova o @c.us - 3° Número@c.us"]  
 > Example: ["5511987654321@c.us"]  
@@ -236,11 +236,11 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: true, false  
 > - Padrão: false  
 ------  
-> - [Popup](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L51) → Ativa as notificações da Íris na sua tela do PC.  
+> - [Popup](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L51) → Ativa as notificações do Hehe Boy! na sua tela do PC.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
-> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Prefixos da Íris, mensagens que comecem com eles serão detectadas como comandos.  
+> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Prefixos do Hehe Boy!, mensagens que comecem com eles serão detectadas como comandos.  
 > - Valores: array de qualquer coisa  
 > - Padrão: ["/", "$", "#", ".", "\\", "@", "=", "?", "+", "!", "&", ":", ";", "^", ">", "<"]  
 ------  
@@ -256,7 +256,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número  
 > - Padrão: 20  
 ------  
-> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Tempo máximo de espera do puppeteer, após esgotar, a Íris fechará os comandos como CPF forçadamente.  
+> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Tempo máximo de espera do puppeteer, após esgotar, o Hehe Boy! fechará os comandos como CPF forçadamente.  
 > - Valores: número (time in milissegundos)  
 > - Padrão: 220000  
 ------  
@@ -264,7 +264,7 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: número  
 > - Default: 10  
 ------  
-> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → Se você ativar isto, a Íris avisará que ficou online em todos os grupos.  
+> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → Se você ativar isto, o Hehe Boy! avisará que ficou online em todos os grupos.  
 > - Valores: true, false  
 > - Padrão: false  
 ------  
@@ -274,9 +274,9 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 ------  
 > - [Sticker_Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L78) → Nome padrão dos packs de sticker.  
 > - Valores: string  
-> - Padrão: "🔰 MVTZ [https://github.com/anonybrmous] MaaTVZ ⚜️"  
+> - Padrão: "🔰 Hehe Boy! [https://evolutioncine.tk] MaaTVZ ⚜️"  
 ------  
-> - [User_Agent](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L79) → User-Agent padrão para módulos como 'axios' e outros, útil para evitar bloqueios de U.A na Íris.  
+> - [User_Agent](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L79) → User-Agent padrão para módulos como 'axios' e outros, útil para evitar bloqueios de U.A no Hehe Boy!.  
 > - Valores: [string](https://www.whatismybrowser.com/guides/the-latest-user-agent/chrome)  
 > - Padrão: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"  
 ------  
@@ -298,11 +298,11 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 ------  
 > - [Your_Name](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L84) → Nome ou apelido do dono, será usado quando o sticker não puder ser criado com valores padrão, use somente letras normais.  
 > - Valores: string  
-> - Padrão: "KillovSky"  
+> - Padrão: "MaaTVZ"  
 ------  
 > - [Owner_SECRET_Password](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L85) → A senha secreta do dono, se você não definir um 'Owner', basta colocar essa senha na mensagem para usar os comandos de dono, NÃO DEIXE A SENHA PADRÃO!  
 > - Valores: string  
-> - Padrão: "irisBOT@Root"  
+> - Padrão: "maninhoec@Root"  
 ------  
   
 </details>  

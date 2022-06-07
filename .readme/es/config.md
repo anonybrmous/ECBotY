@@ -75,11 +75,11 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número (tiempo en segundos)  
 > - Predeterminado: 10  
 ------  
-> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Bloquea personas peligrosas automáticamente (reduce la velocidad de la íris).  
+> - [Auto_Block](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L4) → Bloquea personas peligrosas automáticamente (reduce la velocidad de la Hehe Boy!).  
 > - Valores: true, false  
 > - Predeterminado: false  
 ------  
-> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → La Íris se actualiza automáticamente cuando edita el código del programa.  
+> - [Auto_Update](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L5) → La Hehe Boy! se actualiza automáticamente cuando edita el código del programa.  
 > - Valores: true, false  
 > - Predeterminado: false  
 ------  
@@ -131,7 +131,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: true, false  
 > - Predeterminado: true  
 ------  
-> - [Enable_Backups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L21) → Habilita el backup de archivos importantes de Íris.  
+> - [Enable_Backups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L21) → Habilita el backup de archivos importantes de Hehe Boy!.  
 > - Valores: true, false  
 > - Predeterminado: true  
 ------  
@@ -143,7 +143,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número  
 > - Predeterminado: 10  
 ------  
-> - [Language](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L24) → Todos los textos, diálogos y sistemas de traducción de Íris.  
+> - [Language](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L24) → Todos los textos, diálogos y sistemas de traducción de Hehe Boy!.  
 > - Valores: "en", "pt", "es"  
 > - Predeterminado: "pt"  
 ------  
@@ -163,7 +163,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número  
 > - Predeterminado: 16  
 ------  
-> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → La cantidad máxima de grupos que íris puede unirse. Si va además del límite, ella se irá.  
+> - [Max_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L29) → La cantidad máxima de grupos que Hehe Boy! puede unirse. Si va además del límite, ella se irá.  
 > - Valores: número  
 > - Predeterminado: 10  
 ------  
@@ -227,7 +227,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número  
 > - Predeterminado: 1000  
 ------  
-> - [Owner](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L45-L49) → La lista de propietarios del Iris instalado, los números de Owner pueden controlar todas las acciones de Íris.  
+> - [Owner](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L45-L49) → La lista de propietarios del Iris instalado, los números de Owner pueden controlar todas las acciones de Hehe Boy!.  
 > - Valores: array de números con string  
 > - Predeterminado: ["Inserte su número@c.us", "Número 2 - Opcional@c.us", "No quite el @c.us - 3° owner@c.us"]  
 > Example: ["5511987654321@c.us"]  
@@ -240,7 +240,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: true, false  
 > - Predeterminado: false  
 ------  
-> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Los prefijos de Íris, los mensajes que comiencen con eso se detectarán como comandos.  
+> - [Prefix](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L52-L69) → Los prefijos de Hehe Boy!, los mensajes que comiencen con eso se detectarán como comandos.  
 > - Valores: array of everything  
 > - Predeterminado: ["/", "$", "#", ".", "\\", "@", "=", "?", "+", "!", "&", ":", ";", "^", ">", "<"]  
 ------  
@@ -256,7 +256,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número  
 > - Predeterminado: 20  
 ------  
-> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Tiempo máximo de espera del puppeteer, cuando llegue a 0, Íris forzará el fin de comandos como CPF.  
+> - [Puppeteer_Wait](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L73) → Tiempo máximo de espera del puppeteer, cuando llegue a 0, Hehe Boy! forzará el fin de comandos como CPF.  
 > - Valores: número (tiempo en milisegundos)  
 > - Predeterminado: 220000  
 ------  
@@ -264,7 +264,7 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: número  
 > - Default: 10  
 ------  
-> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → Si activa esto, Íris notificará a los grupos cuando estas online.  
+> - [StartUP_MSGs_Groups](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L76) → Si activa esto, Hehe Boy! notificará a los grupos cuando estas online.  
 > - Valores: true, false  
 > - Predeterminado: false  
 ------  
@@ -272,9 +272,9 @@ Para configurar estos parámetros, busque la ```Iris Folder``` que descargó con
 > - Valores: string  
 > - Predeterminado: "DONTEDITUSR - DONTEDITGPN"  
 ------  
-> - [Sticker_Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L78) → Nombre predeterminado de los paquetes de stickers creados por Iris.  
+> - [Sticker_Pack](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L78) → Nombre predeterminado de los paquetes de stickers creados por Hehe Boy!.  
 > - Valores: string  
-> - Predeterminado: "🔰 MVTZ [https://github.com/anonybrmous] MaaTVZ ⚜️"  
+> - Predeterminado: "🔰 Hehe Boy! [https://evolutioncine.tk] MaaTVZ ⚜️"  
 ------  
 > - [User_Agent](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json#L79) → User-Agent predeterminado para usar axios y otros módulos. Es útil para evitar bloqueos de U.A.  
 > - Valores: [string](https://www.whatismybrowser.com/guides/the-latest-user-agent/chrome)  
